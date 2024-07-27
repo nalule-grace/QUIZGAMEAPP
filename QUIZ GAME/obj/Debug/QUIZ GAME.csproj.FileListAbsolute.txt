@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive\Desktop\quiz summative\QUIZ GAME\QUIZ GAME\bin\Debug\QUIZ GAME.exe.config
+C:\Users\HP\OneDrive\Desktop\quiz summative\QUIZ GAME\QUIZ GAME\bin\Debug\QUIZ GAME.exe
+C:\Users\HP\OneDrive\Desktop\quiz summative\QUIZ GAME\QUIZ GAME\bin\Debug\QUIZ GAME.pdb
+C:\Users\HP\OneDrive\Desktop\quiz summative\QUIZ GAME\QUIZ GAME\obj\Debug\QUIZ GAME.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\quiz summative\QUIZ GAME\QUIZ GAME\obj\Debug\QUIZ_GAME.Form1.resources
+C:\Users\HP\OneDrive\Desktop\quiz summative\QUIZ GAME\QUIZ GAME\obj\Debug\QUIZ_GAME.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\quiz summative\QUIZ GAME\QUIZ GAME\obj\Debug\QUIZ GAME.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\quiz summative\QUIZ GAME\QUIZ GAME\obj\Debug\QUIZ GAME.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\quiz summative\QUIZ GAME\QUIZ GAME\obj\Debug\QUIZ GAME.exe
+C:\Users\HP\OneDrive\Desktop\quiz summative\QUIZ GAME\QUIZ GAME\obj\Debug\QUIZ GAME.pdb
+C:\Users\HP\OneDrive\Desktop\quiz summative\QUIZ GAME\QUIZ GAME\obj\Debug\QUIZ_GAME.home.resources
