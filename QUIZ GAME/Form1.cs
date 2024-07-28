@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace QUIZ_GAME
 {
     public partial class Form1 : Form
@@ -67,7 +68,7 @@ namespace QUIZ_GAME
 
 
                    // percentage = (int)Math.Round((double)(score * 100) / totalQuestions * quizQuestions[0].Weight);
-                   percentage = (score/17) * 100;
+                   percentage =(int)Math.Round((double))(score/17) * 100;
 
 
                     MessageBox.Show(
