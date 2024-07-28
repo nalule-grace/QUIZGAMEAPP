@@ -68,7 +68,9 @@ namespace QUIZ_GAME
 
 
                    // percentage = (int)Math.Round((double)(score * 100) / totalQuestions * quizQuestions[0].Weight);
-                   percentage =(int)Math.Round((double))(score/17) * 100;
+            
+                    percentage = (int)Math.Round((double)score / 17 * 100);
+
 
 
                     MessageBox.Show(
